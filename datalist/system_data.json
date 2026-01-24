@@ -1,0 +1,71 @@
+{
+  "CLASS_TO_COLOR": {
+    "F": "Yellow", "G": "Yellow", "K": "Red", "M": "Red", "E": "Green",
+    "B": "Blue", "O": "Blue", "X": "Purple", "Y": "Purple"
+  },
+  "FACTIONS": [
+    "Gek", "Korvax", "Vy'keen", "Uncharted", 
+    "Gek Abandoned", "Korvax Abandoned", "Vy'keen Abandoned"
+  ],
+  "ECONOMY_LIST": [
+    "Advanced Materials", "Alchemical", "Commercial", "Construction", "Data Unavailable", 
+    "Energy Supply", "Engineering", "Experimental", "Fuel Generation", "High Electric", 
+    "High Tech", "High Voltage", "Industrial", "Manufacturing", "Mass Production", 
+    "Material Fusion", "Mathematical", "Mercantile", "Metal Processing", "Mineral Extraction", 
+    "Minerals", "Mining", "N/A", "Nano-construction", "Ore Extraction", "Ore Processing", 
+    "Power Generation", "Prospecting", "Research", "Scientific", "Shipping", "Technology", "Trading"
+  ],
+  "WEALTH_LIST": [
+    "Adequate", "Advanced", "Affluent", "Balanced", "Black Market", "Booming", 
+    "Comfortable", "Data Unavailable", "Declining", "Destitute", "Developing", 
+    "Failing", "Fledgling", "Flourishing", "High Supply", "Low supply", "Medium Supply", 
+    "Opulent", "Promising", "Prosperous", "Satisfactory", "Struggling", "Sustainable", 
+    "Unpromising", "Unsuccessful", "Wealthy"
+  ],
+  "CONFLICT_LIST": [
+    "Aggressive", "Alarming", "At War", "Belligerent", "Boisterous", "Critical", 
+    "Dangerous", "Data Unavailable", "Destructive", "Formidable", "Fractious", 
+    "Gentle", "High", "Intermittent", "Lawless", "Low", "Medium", "Mild", "N/A", 
+    "Peaceful", "Perilous", "Pirate Controlled", "Relaxed", "Rowdy", "Sporadic", 
+    "Stable", "Testy", "Tranquil", "Trivial", "Unruly", "Unstable", "Unthreatening", "Untroubled"
+  ],
+  "COMMODITIES": [
+    "5D Torus", "Autonomous Positioning Unit", "Banned Weapons", "Blood Salt", "Bromide Salt", 
+    "Carbon Nanotubes", "Comet Droplets", "Counterfeit Circuits", "De-Scented Bottles", 
+    "De-Scented Pheromone Bottle", "Decommissioned Circuit Board", "Decrypted User Data", 
+    "Enormous Metal Cog", "Experimental Power Fluid", "First Spawn Relics", "Fusion Core", 
+    "GrahGrah", "High Capacity Vector Compressor", "Holographic Crankshaft", 
+    "Industrial-Grade Battery", "Instability Injector", "Ion Capacitor", "Ion Sphere", 
+    "Mesh Decouplers", "Moon Ether", "Nanotube Crate", "Neural Duct", "Neutron Microscope", 
+    "NipNip Buds", "Non-Stick Piston", "Ohmic Gel", "Optical Solvent", "Organic Piping", 
+    "Polychromatic Zirconium", "Prismatic Feathers", "Quantum Accelerator", 
+    "Re-latticed Arc Crystal", "Self-Repairing Heridium", "Six-Pronged Mesh Decoupler", 
+    "Spark Canister", "Star Silk", "Stolen DNA Samples", "Superconducting Fibre", 
+    "Suspicious Packet (Goods)", "Suspicious Packet (Technology)", "Suspicious Packet (Weaponry)", 
+    "Teleport Coordinators", "Unrefined Pyrite Grease", "Vector Compressors", "Welding Soap"
+  ],
+  "UPGRADES_MT": [
+    "Advanced Mining Laser", "Analysis Visor Upgrade", "Blaze Javelin Upgrade", 
+    "Boltcaster Upgrade", "Geology Cannon Upgrade", "Mining Beam Upgrade", 
+    "Neutron Cannon Upgrade", "Plasma Launcher Upgrade", "Pulse Spitter Upgrade", 
+    "Scatter Blaster Upgrade"
+  ],
+  "UPGRADES_SS": [
+    "Cyclotron Ballista Upgrade", "Deflector Shield Upgrade", "Hyperdrive Upgrade", 
+    "Infra-Knife Accelerator Upgrade", "Launch Thruster Upgrade", "Phase Beam Upgrade", 
+    "Photon Cannon Upgrade", "Positron Ejector Upgrade", "Pulse Engine Upgrade"
+  ],
+  "UPGRADES_EC": [
+    "Exocraft Acceleration Module Upgrade", "Exocraft Engine Module", 
+    "Exocraft Mining Laser Upgrade", "Exocraft Mounted Cannon Upgrade", 
+    "Humboldt Drive Upgrade", "Minotaur Cannon Upgrade", "Minotaur Engine Upgrade", 
+    "Nautilon Cannon Upgrade"
+  ],
+  "UPGRADES_ES": [
+    "Defence Systems Upgrade", "Life Support Upgrade", "Movement System Upgrade", 
+    "Radiation Protection Module", "Thermal Protection Module (Cold)", 
+    "Thermal Protection Module (Heat)", "Toxic Protection Module", "Underwater Protection Module"
+  ],
+  "PLATFORMS": ["PC", "PS4", "PS5", "Xbox", "Switch", "Mac"],
+  "MODES": ["Normal", "Survival", "Permadeath", "Creative", "Relaxed"]
+}
