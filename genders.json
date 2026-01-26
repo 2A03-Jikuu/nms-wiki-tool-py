@@ -1,0 +1,31 @@
+{
+  "standard": [
+    "Alpha",
+    "Asymmetric",
+    "Asymptotic",
+    "Exotic",
+    "Female",
+    "Indeterminate",
+    "Male",
+    "Non-uniform",
+    "None",
+    "Orthogonal",
+    "Prime",
+    "Radical",
+    "Rational",
+    "Symmetric",
+    "Unknown",
+    "Vectorised"
+  ],
+  "robot": [
+    "Asynchronous",
+    "Circular",
+    "Electronic",
+    "Mutable",
+    "Non-boolean",
+    "Non-Euclidean",
+    "Uninitialised",
+    "Unmeasurable",
+    "Virtual"
+  ]
+}
